@@ -92,7 +92,7 @@ footer.innerHTML = `
 
       <div class="footer-section">
         <h3>Sobre Nosotros</h3>
-        <p>Nuestro propósito es brindar productos de calidad reducidos de desechos, cuidando nuestro planeta.</p>
+        <p>Nuestro propósito es brindar productos y servicios de calidad, sin nada de rellenos</p>
         <p><i class="fas fa-phone-alt"></i> <strong>+593 996691773</strong></p>
       </div>
 
