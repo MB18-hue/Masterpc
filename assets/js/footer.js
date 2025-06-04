@@ -86,7 +86,7 @@ footer.innerHTML = `
   <footer class="footer">
     <div class="footer-container">
       <div class="footer-section">
-        <h2>PC Master te brinda productos de calidad</h2>
+        <h2>PC Master te brinda productos de calidad y servicios de calidad</h2>
         <img src="./assets/images/body.png" alt="PC Master Express Logo" class="footer-logo">
       </div>
 
